@@ -1,8 +1,15 @@
 # Setup
+#### By: [Daniel Nazarian](https://danielnazarian) 🐧
+##### Contact me at <dnaz@danielnazarian.com>
+
+-------------------------------------------------------
+
 A series of scripts/setup docs to help setup a new computer - Mac OS specifically. This is all to the end that restarting/cleaning
 your dev machine should be a painless and easy process.
 
-## Main Scripts
+-------------------------------------------------------
+
+## Main Files
 The global/top level scripts to run. These include many of the most common developer tools I use as well as requirements for more
 specific scripts and dev environments.
 
@@ -21,6 +28,10 @@ Tools:
 This file is a copy of a 'completed' zshrc file at the end of setup. While each script/program should handle it's own variables/PATH
 properly, this is meant to serve as a reference in case anything is not working as anticipated.
 
+### mac-apps.txt
+Full apps/tools you may want to download (optional).
+
+-------------------------------------------------------
 
 ## Language Scripts
 Language/framework specific install scripts.
@@ -43,5 +54,13 @@ Tools:
 - Pyenv
 - Pipenv
 
+-------------------------------------------------------
+
 ## Terminals
 Default terminal configurations/options.
+
+
+-------------------------------------------------------
+
+##### [https://danielnazarian.com](https://danielnazarian.com)
+##### Copyright 2021 © Daniel Nazarian.

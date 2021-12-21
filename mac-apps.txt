@@ -13,11 +13,8 @@ Android Studio
 
 ### Containers
 Docker
-VMWare Fusion Free
+VMWare Fusion
 
 ### Tools
 Postman
 TeamViewer
-
-### Misc
-Spotify
