@@ -1,17 +1,17 @@
 # Setup
-computer personal setup/config repo
-
+A series of scripts/setup docs to help setup a new computer - Mac OS specifically. This is all to the end that restarting/cleaning
+your dev machine should be a painless and easy process.
 
 ## Main Scripts
+The global/top level scripts to run. These include many of the most common developer tools I use as well as requirements for more
+specific scripts and dev environments.
 
 ### brew.sh
-TODO
 Tools
 - postgres
 - postgis
 
 ### cli-tools.sh
-TODO
 Tools:
 - GitHub CLI
 - Heroku CLI
@@ -23,23 +23,21 @@ properly, this is meant to serve as a reference in case anything is not working 
 
 
 ## Language Scripts
+Language/framework specific install scripts.
 
 ### flutter.sh
-TODO
 Tools:
 - Dart
 - FVM
 - Flutter
 
 ### node.sh
-TODO
 Tools:
 - NVM
 - Node
 - TypeScript
 
 ### python.sh
-TODO
 Tools:
 - Python 3 (latest)
 - Pyenv
