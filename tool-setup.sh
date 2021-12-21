@@ -4,7 +4,6 @@
 git config --global user.email "danielnazarian@outlook.com"
 git config --global user.name "Daniel Nazarian"
 
-
 # setup heroku cli
 heroku login
 
