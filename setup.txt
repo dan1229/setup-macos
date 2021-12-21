@@ -1,0 +1,9 @@
+Brew install
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+- brew doctor
+-  brew install gh 
+
+
+brew global config
+- git config --global user.email "danielnazarian@outlook.com"
+- git config --global user.name "Daniel Nazarian"
