@@ -1,24 +1,23 @@
-App Store
+# App Store
 
 Simple Note
 
 
 
+## Online
 
-Online
-
-## IDEs
+### IDEs
 VS Code
 PyCharm
 Android Studio
 
-## Containers
+### Containers
 Docker
 VMWare Fusion Free
 
-## Tools
+### Tools
 Postman
 TeamViewer
 
-## Misc
+### Misc
 Spotify

@@ -10,9 +10,6 @@ brew update
 # install python
 brew install python
 
-# default to python 3
-# TODO
-
 # install pyenv
 brew install pyenv
 
@@ -39,22 +36,14 @@ pyenv global $(pyenv install --list | grep --extended-regexp "^\s*[0-9][0-9.]*[0
 brew install pyenv-virtualenv
 
 # auto activate virtualenv
-echo ‘eval “$(pyenv virtualenv-init -)”’ >> ~/.zshrc
+# TODO doesnt work
+# echo "# auto activate virtualenvs" >> ~/.zshrc
+# echo ‘eval “$(pyenv virtualenv-init -)”’ >> ~/.zshrc
+# echo "" >> ~/.zshrc
+# source ~/.zshrc
 
 # install pipenv
 pip3 install --user pipenv
-
-# set pipenv path
-# echo "# pipenv config" >> ~/.zprofile
-# echo "export PYTHON_BIN_PATH="$(python3 -m site --user-base)/bin"" >> ~/.zprofile
-# echo "export PATH="$PATH:$PYTHON_BIN_PATH" " >> ~/.zprofile
-# echo "" >> ~/.zprofile
-# echo "# pipenv config" >> ~/.zshrc
-# echo "path+=("$HOME/.local/bin")" >> ~/.zshrc
-# echo "export PATH" >> ~/.zshrc
-# echo "" >> ~/.zshrc
-# source ~/.zprofile
-# source ~/.zshrc
 
 # brew doctor
 brew doctor -v
