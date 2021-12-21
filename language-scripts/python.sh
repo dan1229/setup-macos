@@ -27,9 +27,6 @@ echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 echo 'export PYENV_ROOT=$(pyenv root)' >> ~/.zshrc
 echo 'export PATH="$PYENV_ROOT/shims:$PATH"' >> ~/.zshrc
 echo "alias brew='env PATH="${PATH//$(pyenv root)\/shims:/}" brew'" >> ~/.zshrc  # fix for brew warning
-echo "if command -v pyenv 1>/dev/null 2>&1; then" >> ~/.zshrc 
-echo "    eval "$(pyenv init -)"" >> ~/.zshrc 
-echo "fi" >> ~/.zshrc 
 echo "" >> ~/.zshrc
 source ~/.zprofile
 source ~/.zshrc
