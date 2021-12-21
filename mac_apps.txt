@@ -7,8 +7,18 @@ Simple Note
 
 Online
 
+## IDEs
 VS Code
-Spotify
+PyCharm
+Android Studio
+
+## Containers
+Docker
+VMWare Fusion Free
+
+## Tools
 Postman
 TeamViewer
-Steam
+
+## Misc
+Spotify
