@@ -1,13 +1,5 @@
-Brew install
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-- brew doctor
-- major brew packages
-
 
 langugage scripts
 - install python
 - install node/js/nvm/etc
 - install flutter/dart
-
-
-git.sh

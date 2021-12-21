@@ -8,10 +8,15 @@ echo ""
 curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh
 
 
+# update just in case
+brew update
+
+
 # install major brew packages
 brew install gh
 brew tap heroku/brew && brew install heroku
 brew install postgresql
+brew install postgis
 
 
 # brew doctor
@@ -20,6 +25,8 @@ brew doctor -v
 
 # final message
 echo "**"
+echo "Homebrew is now fully installed!"
+echo ""
 echo "Please complete as much of the output of the above as you can to ensure your"
 echo "Homebrew installation is as solid as possible!"
 echo ""
