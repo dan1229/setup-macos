@@ -48,16 +48,16 @@ echo ‘eval “$(pyenv virtualenv-init -)”’ >> ~/.zshrc
 pip3 install --user pipenv
 
 # set pipenv path
-echo "# pipenv config" >> ~/.zprofile
-echo "export PYTHON_BIN_PATH="$(python3 -m site --user-base)/bin"" >> ~/.zprofile
-echo "export PATH="$PATH:$PYTHON_BIN_PATH" " >> ~/.zprofile
-echo "" >> ~/.zprofile
-echo "# pipenv config" >> ~/.zshrc
-echo "path+=("$HOME/.local/bin")" >> ~/.zshrc
-echo "export PATH" >> ~/.zshrc
-echo "" >> ~/.zshrc
-source ~/.zprofile
-source ~/.zshrc
+# echo "# pipenv config" >> ~/.zprofile
+# echo "export PYTHON_BIN_PATH="$(python3 -m site --user-base)/bin"" >> ~/.zprofile
+# echo "export PATH="$PATH:$PYTHON_BIN_PATH" " >> ~/.zprofile
+# echo "" >> ~/.zprofile
+# echo "# pipenv config" >> ~/.zshrc
+# echo "path+=("$HOME/.local/bin")" >> ~/.zshrc
+# echo "export PATH" >> ~/.zshrc
+# echo "" >> ~/.zshrc
+# source ~/.zprofile
+# source ~/.zshrc
 
 # brew doctor
 brew doctor -v
