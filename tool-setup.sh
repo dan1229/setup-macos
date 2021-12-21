@@ -6,7 +6,10 @@ git config --global user.name "Daniel Nazarian"
 
 
 # setup heroku cli
-
+heroku login
 
 # setup github cli
+gh auth login
 
+# setup aws cli
+# TODO
