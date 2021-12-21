@@ -7,21 +7,15 @@ echo ""
 # install brew
 curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh
 
-
 # update just in case
 brew update
 
-
 # install major brew packages
-brew install gh
-brew tap heroku/brew && brew install heroku
 brew install postgresql
 brew install postgis
 
-
 # brew doctor
 brew doctor -v
-
 
 # final message
 echo "**"

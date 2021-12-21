@@ -1,5 +1,0 @@
-
-langugage scripts
-- install python
-- install node/js/nvm/etc
-- install flutter/dart
