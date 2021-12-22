@@ -10,9 +10,10 @@ curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh
 # update just in case
 brew update
 
-# install major brew packages
+# install postgres/gis
 brew install postgresql
 brew install postgis
+brew services start postgresql
 
 # brew doctor
 brew doctor -v
