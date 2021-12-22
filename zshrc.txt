@@ -1,2 +1,20 @@
-# TODO
-# copy from actual one once everything is set up properly
+# pyenv config
+eval "$(pyenv init -)"
+export PYENV_ROOT=$(pyenv root)
+export PATH="$PYENV_ROOT/shims:$PATH"
+alias brew='env PATH=/Users/daniel/.pyenv/bin:/Users/daniel/.pyenv/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware::/Users/daniel/.local/bin:/Users/daniel/.local/bin:/Users/daniel/.pub-cache/bin brew' # fix for brew warning
+
+# dart config
+export PATH=/Users/daniel/.pyenv/shims:/Users/daniel/.pyenv/shims:/Users/daniel/.pyenv/bin:/Users/daniel/.pyenv/shims:/Users/daniel/.pyenv/bin:/Users/daniel/.pyenv/shims:/Users/daniel/.pyenv/shims:/Users/daniel/.pyenv/bin:/Users/daniel/.pyenv/shims:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware::/Users/daniel/.local/bin:/Users/daniel/.local/bin:/Users/:/Users/daniel/.pub-cache/bin
+
+# flutter config
+export PATH=/Users/daniel/.pyenv/shims:/Users/daniel/.pyenv/shims:/Users/daniel/.pyenv/bin:/Users/daniel/.pyenv/shims:/Users/daniel/.pyenv/bin:/Users/daniel/.pyenv/shims:/Users/daniel/.pyenv/shims:/Users/daniel/.pyenv/bin:/Users/daniel/.pyenv/shims:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware::/Users/daniel/.local/bin:/Users/daniel/.local/bin:/Users/:/Users/daniel/.pub-cache/bin:/Users/daniel/fvm/default/bin
+
+# fvm config
+export FVM_HOME=/Users/daniel/fvm/default/bin
+
+
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion

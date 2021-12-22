@@ -1,0 +1,4 @@
+# pyenv config
+export PYENV_ROOT=/Users/daniel/.pyenv
+export PATH=/Users/daniel/.pyenv/bin:/Users/daniel/.pyenv/shims:/Users/daniel/.pyenv/bin:/Users/daniel/.pyenv/shims:/Users/daniel/.pyenv/shims:/Users/daniel/.pyenv/bin:/Users/daniel/.pyenv/shims:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware::/Users/daniel/.local/bin:/Users/daniel/.local/bin:/Users/daniel/.pub-cache/bin
+
