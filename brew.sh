@@ -14,6 +14,7 @@ brew update
 brew install postgresql
 brew install postgis
 brew services start postgresql
+createdb $who_am_i
 
 # brew doctor
 brew doctor -v
