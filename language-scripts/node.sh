@@ -19,6 +19,8 @@ nvm use node
 # install typescript
 npm install --global typescript
 
+# install nextjs
+npm install -global next
 
 # final message
 echo "**"

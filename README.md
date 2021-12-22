@@ -50,6 +50,7 @@ Tools:
 - NVM
 - Node
 - TypeScript
+- NextJS
 
 ### python.sh
 Tools:
