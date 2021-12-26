@@ -21,6 +21,11 @@ These are the full applications I like to have installed - by no means required 
 ### Tools
 - Postman
 - TeamViewer
+- Logitech Software
+
+### Media
+- Spotify
+- VLC Media Player
 
 ## App Store
 - Simple Note
