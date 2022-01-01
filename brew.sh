@@ -16,6 +16,9 @@ brew install postgis
 brew services start postgresql
 createdb $who_am_i
 
+# git tools
+brew install git-filter-repo
+
 # brew doctor
 brew doctor -v
 

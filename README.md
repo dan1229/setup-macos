@@ -17,6 +17,7 @@ specific scripts and dev environments.
 Tools
 - postgres
 - postgis
+- git tools
 
 ### cli-tools.sh
 Tools:
