@@ -18,6 +18,7 @@ Tools
 - postgres
 - postgis
 - git tools
+- cloc
 
 ### cli-tools.sh
 Tools:

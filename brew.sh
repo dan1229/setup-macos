@@ -19,6 +19,9 @@ createdb $who_am_i
 # git tools
 brew install git-filter-repo
 
+# cloc
+brew install cloc
+
 # brew doctor
 brew doctor -v
 
