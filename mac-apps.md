@@ -21,7 +21,10 @@ These are the full applications I like to have installed - by no means required 
 ### Tools
 - Postman
 - TeamViewer
+
+# Peripherals
 - Logitech Software
+- Razer mac
 
 ### Media
 - Spotify
