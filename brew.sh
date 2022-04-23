@@ -22,6 +22,9 @@ brew install git-filter-repo
 # cloc
 brew install cloc
 
+# lcov
+brew install lcov
+
 # brew doctor
 brew doctor -v
 
