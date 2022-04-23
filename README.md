@@ -69,4 +69,4 @@ Default terminal configurations/options.
 -------------------------------------------------------
 
 ##### [https://danielnazarian.com](https://danielnazarian.com)
-##### Copyright 2021 © Daniel Nazarian.
+##### Copyright 2022 © Daniel Nazarian.
