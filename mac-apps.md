@@ -25,7 +25,7 @@ These are the full applications I like to have installed - by no means required 
 
 # Peripherals
 - Logitech Options (https://www.logitech.com/en-us/software/options.html)
-- Razer Synapse Mac (https://www.razer.com/synapse-2)
+- Razer macOS (https://github.com/1kc/razer-macos)
 
 ### Media
 - Spotify
