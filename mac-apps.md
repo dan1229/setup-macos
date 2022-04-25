@@ -19,18 +19,19 @@ These are the full applications I like to have installed - by no means required 
 - VMWare Fusion
 
 ### Tools
-- Postman
-- TeamViewer
+- Postman (https://www.postman.com/downloads/)
+- TeamViewer (https://www.teamviewer.com/en-us/download/mac-os/)
+- Obsidian (https://obsidian.md/download)
 
 # Peripherals
-- Logitech Software
-- Razer mac
+- Logitech Options (https://www.logitech.com/en-us/software/options.html)
+- Razer Synapse Mac (https://www.razer.com/synapse-2)
 
 ### Media
 - Spotify
 - VLC Media Player
 
 ## App Store
-- Simple Note
+- Magnets
 
 
