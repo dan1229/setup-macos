@@ -32,6 +32,7 @@ These are the full applications I like to have installed - by no means required 
 - VLC Media Player
 
 ## App Store
+- XCode
 - Magnets
 
 
